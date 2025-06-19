@@ -36,7 +36,8 @@ This project is a dynamic Sales Dashboard built using Microsoft Excel. It levera
 
 ## Screenshots
 
-*(Add screenshots of your dashboard here)*
+<img width="554" alt="Dashboard" src="https://github.com/user-attachments/assets/7e520ac1-f625-4ba1-93c6-f52a87a40ec9" />
+
 
 ## About Me
 
